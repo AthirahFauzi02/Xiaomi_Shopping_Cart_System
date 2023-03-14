@@ -1,3 +1,6 @@
 # XIAOMI_ASSIGNMENT_DSA_HND
-This is my data structure and algorithm assignment during Higher National Diploma. 
-Basically, this program is about shopping cart where you can add products and then the system will calculate total price of the added items   
+Project Name: **Xiaomi Shopping Cart System**
+
+The System was Created from **March until April 2019**
+
+Description : **A simple console shopping cart system. The system allow users to view products, add products to shopping cart, view shopping cart, update quantity of products, search products and remove product from shopping cart. This system is created for Data Structure and algorithm subject during semester 5 of Higher National Diploma.**
